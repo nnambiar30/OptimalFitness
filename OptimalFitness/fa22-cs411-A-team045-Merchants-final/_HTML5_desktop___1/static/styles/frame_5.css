@@ -1,0 +1,77 @@
+/*
+	@name frame_1
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 2009px; width: 2009px; height: 1485px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
+
+
+#page_frame_1_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 2009px;
+	height: 1485px;
+}
+
+#_bg__frame_1_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 2009px;
+	height: 1485px;
+	
+}
+
+
+#rectangle_1 {
+	top: 0px;
+	left: 0px;
+	width: 2009px;
+	height: 1485px;
+	background:rgba(249.69,4.16,4.16,1);
+}
+
+
+#rectangle_2 {
+	top: 51px;
+	left: 49px;
+	width: 1911px;
+	height: 1384px;
+	background:rgba(255,244.37,244.37,1);
+}
+
+
+#users_with_same_split {
+	top: 107px;
+	left: 721px;
+	width: 667px;
+	height: 219px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 96px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#count__split_id_ {
+	top: 547px;
+	left: 495px;
+	width: 1000px;
+	height: 2000px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 32px;
+	text-align: left;
+	color:#000000;
+}
+
+
+
+/* Add your custom CSS here */

@@ -1,0 +1,133 @@
+/*
+	@name frame_1
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 2009px; width: 2009px; height: 1485px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
+
+
+#page_frame_1_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 2009px;
+	height: 1485px;
+}
+
+#_bg__frame_1_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 2009px;
+	height: 1485px;
+	
+}
+
+
+#rectangle_1 {
+	top: 0px;
+	left: 0px;
+	width: 2009px;
+	height: 1485px;
+	background:rgba(249.69,4.16,4.16,1);
+}
+
+
+#rectangle_2 {
+	top: 51px;
+	left: 49px;
+	width: 1911px;
+	height: 1384px;
+	background:rgba(255,244.37,244.37,1);
+}
+
+
+#update_split {
+	top: 107px;
+	left: 721px;
+	width: 667px;
+	height: 219px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 96px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#split_ {
+	top: 372px;
+	left: 170px;
+	width: 2410px;
+	height: 88px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 32px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#select_which_workout_to_change__0_indexed__and_what_new_workout_should_be {
+	top: 579px;
+	left: 569px;
+	width: 775px;
+	height: 185px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 32px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#index_ {
+	top: 768px;
+	left: 485px;
+	width: 273px;
+	height: 115px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 32px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#new_workout_ {
+	top: 768px;
+	left: 926px;
+	width: 273px;
+	height: 115px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 32px;
+	text-align: left;
+	color:#000000;
+}
+
+#new_split{
+
+    top: 700px;
+    left: 170px;
+    width: 241px;
+    height: 88px;
+    overflow: hidden;
+    font-family: Inter;
+    font-size: 32px;
+    text-align: left;
+    color: #000000;
+}
+
+
+
+
+
+
+
+/* Add your custom CSS here */

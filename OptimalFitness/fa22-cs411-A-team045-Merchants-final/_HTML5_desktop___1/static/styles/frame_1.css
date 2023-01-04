@@ -1,0 +1,190 @@
+/*
+	@name frame_1
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 2009px; width: 2009px; height: 1485px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
+
+
+#page_frame_1_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 2009px;
+	height: 1485px;
+}
+
+#_bg__frame_1_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 2009px;
+	height: 1485px;
+}
+
+
+#rectangle_1 {
+	top: 0px;
+	left: 0px;
+	width: 2009px;
+	height: 1485px;
+	background:rgba(249.69,4.16,4.16,1);
+}
+
+
+#rectangle_2 {
+	top: 51px;
+	left: 49px;
+	width: 1911px;
+	height: 1384px;
+	background:rgba(255,244.37,244.37,1);
+}
+
+
+#name_ {
+	top: 407px;
+	left: 878px;
+	width: 290px;
+	height: 71px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 32px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#customerid_ {
+	top: 513px;
+	left: 878px;
+	width: 290px;
+	height: 71px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 32px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#calories_left_ {
+	top: 619px;
+	left: 878px;
+	width: 290px;
+	height: 71px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 32px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#split_ {
+	top: 725px;
+	left: 878px;
+	width: 290px;
+	height: 71px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 32px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#user_stats_ {
+	top: 133px;
+	left: 148px;
+	width: 602px;
+	height: 415px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 96px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#rectangle_3 {
+	top: 939px;
+	left: 277px;
+	width: 372px;
+	height: 114px;
+	background:rgba(217,217,217,1);
+}
+
+
+#update_split {
+	top: 955px;
+	left: 298px;
+	width: 388px;
+	height: 148px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 32px;
+	font-style: italic;
+	text-align: left;
+	color:#020202;
+}
+
+
+#rectangle_5 {
+	top: 939px;
+	left: 1382px;
+	width: 372px;
+	height: 114px;
+	background:rgba(217,217,217,1);
+}
+
+
+#find_users_with_same_split {
+	top: 955px;
+	left: 1403px;
+	width: 388px;
+	height: 148px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 32px;
+	font-style: italic;
+	text-align: left;
+	color:#020202;
+}
+
+
+#rectangle_4 {
+	top: 939px;
+	left: 819px;
+	width: 372px;
+	height: 114px;
+	background:rgba(217,217,217,1);
+}
+
+
+#change_food {
+	top: 955px;
+	left: 840px;
+	width: 388px;
+	height: 148px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 32px;
+	font-style: italic;
+	text-align: left;
+	color:#020202;
+}
+
+#sumbit_button{
+	top: 939px;
+	left: 819px;
+	position: absolute;
+}
+
+
+
+/* Add your custom CSS here */

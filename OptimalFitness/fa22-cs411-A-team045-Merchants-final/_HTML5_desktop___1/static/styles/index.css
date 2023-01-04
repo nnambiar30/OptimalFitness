@@ -1,0 +1,168 @@
+/*
+	@name frame_1
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 2176px; width: 2176px; height: 1619px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
+
+
+#page_frame_1_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 2176px;
+	height: 1619px;
+}
+
+#_bg__frame_1_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 2176px;
+	height: 1619px;
+	/* background:#; */
+}
+
+
+#rectangle_3 {
+	top: 0px;
+	left: 0px;
+	width: 2176px;
+	height: 1619px;
+	background:rgba(250.75,235.08,235.08,1);
+}
+
+
+#rectangle_1 {
+	top: 67px;
+	left: 84px;
+	width: 2009px;
+	height: 1485px;
+	background:rgba(249.69,4.16,4.16,1);
+}
+
+
+#rectangle_2 {
+	top: 118px;
+	left: 133px;
+	width: 1911px;
+	height: 1384px;
+	background:rgba(255,244.37,244.37,1);
+}
+
+
+#enter_user_info {
+	top: 209px;
+	left: 761px;
+	width: 1487px;
+	height: 233px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 96px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#first_name {
+	top: 438px;
+	left: 480px;
+	width: 290px;
+	height: 71px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 32px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#height_ {
+	top: 544px;
+	left: 480px;
+	width: 290px;
+	height: 71px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 32px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#weight_ {
+	top: 650px;
+	left: 480px;
+	width: 290px;
+	height: 71px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 32px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#age_ {
+	top: 968px;
+	left: 480px;
+	width: 290px;
+	height: 71px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 32px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#Favorite_Food_ {
+	top: 862px;
+	left: 480px;
+	width: 290px;
+	height: 71px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 32px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#goals_ {
+	top: 756px;
+	left: 480px;
+	width: 290px;
+	height: 71px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 32px;
+	text-align: left;
+	color:#000000;
+}
+
+#submit{
+	top: 1200px;
+	left: 500px;
+	width: 290px;
+	height: 71px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 32px;
+	text-align: left;
+	color:#000000;
+}
+
+#text_box{
+	margin: 0 auto; 
+	width:250px;
+	
+}
+
+
+/* Add your custom CSS here */
